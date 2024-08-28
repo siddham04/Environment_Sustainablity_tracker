@@ -58,7 +58,7 @@ const ProductGallery = () => {
   };
 
   return(
-    <section className="bg-green-100 text-gray-600 body-font">
+    <section className="bg-green-100 text-gray-500 body-font">
       <div className="container px-5 py-24 mx-auto">
         <div className="flex items-center justify-between">
           <h1 className="text-6xl font-bold mb-28">Fasion & Clothing</h1>
